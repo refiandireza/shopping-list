@@ -14,11 +14,62 @@
       "title": "Birthday Cake",
       "quantity": 1,
       "price": 8.99
+    },
+    {
+      "id": 4,
+      "listId": 3,
+      "title": "CPU Inter Core i7",
+      "quantity": 1,
+      "price": 110.5
+    },
+    {
+      "id": 5,
+      "listId": 3,
+      "title": " 32 GB RAM",
+      "quantity": 1,
+      "price": 80.9
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "title": "144 Hz Monitor",
+      "quantity": 1,
+      "price": 805.0
+    },
+    {
+      "id": 7,
+      "listId": 4,
+      "title": "Chocolate Jam",
+      "quantity": 4,
+      "price": 5.55
+    },
+    {
+      "id": 8,
+      "listId": 4,
+      "title": "Raw Meat",
+      "quantity": 1,
+      "price": 12.4
+    },
+    {
+      "id": 9,
+      "listId": 4,
+      "title": "Cheese",
+      "quantity": 1,
+      "price": 2.0
+    },
+    {
+      "id": 10,
+      "listId": 4,
+      "title": "Ketchup",
+      "quantity": 1,
+      "price": 4.9
     }
   ],
   "lists": [
     { "id": 1, "title": "Daily groceries" },
-    { "id": 2, "title": "Birthday youngest child" }
+    { "id": 2, "title": "Birthday youngest child" },
+    { "id": 3, "title": "Setup PC" },
+    { "id": 4, "title": "Dinner Meal" }
   ],
   "tasks": [
     {
